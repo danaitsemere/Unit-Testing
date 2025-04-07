@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danaitsemere/Unit-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danaitsemere/Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/danaitsemere/Unit-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
